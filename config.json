@@ -1,0 +1,7 @@
+{
+    "excel_path": "../excel",
+    "output_path": "../json",
+    "xlsxfiles": [
+        "tpl.xlsx"
+    ]
+}
